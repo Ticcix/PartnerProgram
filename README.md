@@ -1,6 +1,6 @@
 # Partner Program
 ![Static Badge](https://img.shields.io/badge/Version-1.0-fedcba?style=flat-square) ![Static Badge](https://img.shields.io/badge/Dle-13_And_Up-green?style=flat-square) ![License: Unlicense](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square) [![Static Badge](https://img.shields.io/badge/Download-Partner_Program-red.svg?style=flat-square)](https://ticcix.com/22-partner-program.html) [![Static Badge](https://img.shields.io/badge/Documentation-Green.svg?style=flat-square)](https://ticcix.com/22-partner-program.html)
-![img]([https://ticcix.com/uploads/posts/2023-09/partnerprogram.png](https://ticcix.com/uploads/posts/2023-09/partnerprogram.png))
+![img](https://ticcix.com/uploads/posts/2023-09/partnerprogram.png)
 
 
 ##### The 'Parner Program' Plugin on DataLife Engine (DLE) allows site users to receive rewards for news and comments.
